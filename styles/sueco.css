@@ -112,7 +112,7 @@ header {
 
 #secao-hero {
   position: relative;
-  background: url('../imagens/MÉTODO/DSC_0004.jpg') no-repeat center/cover fixed;
+  background: url('../DSC_0004.jpg') no-repeat center/cover fixed;
   display: flex;
   align-items: center;
   padding: 7.5rem 0;
@@ -339,7 +339,7 @@ header {
 #secao-promocao {
   position: relative;
   height: 40vh;
-  background-image: url(../imagens/ENGLISH-PAGE/DSC_0018.jpg);
+  background-image: url('../DSC_0018.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;

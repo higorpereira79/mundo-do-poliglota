@@ -151,7 +151,7 @@ header {
 /* ===== Seção Hero ===== */
 .secao-hero {
   position: relative;
-  background: url('/imagens/PAGE-ALEMAO/alemanha.jpg') no-repeat center/cover fixed;
+  background: url('../alemanha.jpg') no-repeat center/cover fixed;
   display: flex;
   align-items: center;
   padding: 7.5rem 0;
@@ -365,7 +365,7 @@ header {
 /* ===== Seção Promoção ===== */
 .secao-promocao {
   position: relative;
-  background: url('/imagens/PAGE-ALEMAO/foto-higor.jpg') no-repeat center/cover fixed;
+  background: url('../foto-higor.jpg') no-repeat center/cover fixed;
   background-position: 50% 30.8812px;
   padding-bottom: 100px;
   display: flex;
