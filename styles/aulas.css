@@ -353,6 +353,7 @@ header {
   padding: 1rem;
   text-align: left;
   border: 1px solid #ccc;
+  font-weight: bold;
 }
 
 .tabela th {
